@@ -2,7 +2,7 @@
   "name": "gif-search",
   "version": "1.0.0",
   "description": "bew1.3",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/xScoopy/gif-search/issues"
   },
-  "homepage": "https://github.com/xScoopy/gif-search#readme"
+  "homepage": "https://github.com/xScoopy/gif-search#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
